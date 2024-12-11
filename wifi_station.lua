@@ -1,7 +1,4 @@
 wificonf = {
-  --ssid = "iPhone de Diego ",
-  --pwd = "3d686s62rvoqq",
-  --ssid = "Reativos",
   ssid = "nodemcu12",
   pwd = "reativos",
   save = false,
